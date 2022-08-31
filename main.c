@@ -6,9 +6,6 @@
 void print_title(char a[]);
 void string_to_caps(char a[]);
 
-
-
-
 int main()
 {
    int userHand, computerHand;

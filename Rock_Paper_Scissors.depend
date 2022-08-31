@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1661958245 source:c:\programming\c\rock_paper_scissors\main.c
+1661958450 source:c:\programming\c\rock_paper_scissors\main.c
 	<stdio.h>
 	<string.h>
 	<math.h>
